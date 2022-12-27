@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cars.xsl"?>
+<!DOCTYPE cars SYSTEM "cars.dtd">
+<cars xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cars.xsd">
+    <car name="BMW 3-series" uri="https://www.thecarconnection.com/overview/bmw_3-series_2022" price="41k" rating="7.8">
+        <year>2022</year>
+        <category>Small Sedan</category>
+        <type>Diesel</type>
+    </car>
+    <car name="Audi A3" uri="https://www.thecarconnection.com/overview/audi_a3_2023" price="35k" rating="6.8">
+        <year>2023</year>
+        <category>Small Sedan</category>
+        <type>Diesel</type>
+    </car>
+    <car name="Genesis G70" uri="https://www.thecarconnection.com/overview/genesis_g70_2023" price="40k" rating="6.7">
+        <year>2023</year>
+        <category>Small Sedan</category>
+        <type>Diesel</type>
+
+    </car>
+    <car name="Hyundai Ioniq 5" uri="https://www.thecarconnection.com/overview/hyundai_ioniq-5_2023" price="42k" rating="8.4">
+        <year>2023</year>
+        <category>Small Car</category>
+        <type>Electric</type>
+
+    </car>
+    <car name="Honda Civic" uri="https://www.thecarconnection.com/overview/honda_civic-sdn_2022" price="23k" rating="7.0">
+        <year>2022</year>
+        <category>Small Car</category>
+        <type>Electric</type>
+
+    </car>
+    <car name="Mercedes E-Class" uri="https://www.thecarconnection.com/overview/mercedes-benz_e-class_2022" price="55k" rating="7.8">
+        <year>2022</year>
+        <category>Luxury Car</category>
+        <type>Diesel</type>
+    </car>
+    <car name="BMW 8-Series" uri="https://www.thecarconnection.com/overview/bmw_8-series_2022" price="85k" rating="7.2">
+        <year>2022</year>
+        <category>Luxury Car</category>
+        <type>Diesel/Electric</type>
+    </car>
+    <car name="Porsche 911" uri="https://www.thecarconnection.com/overview/porsche_911-carrera_2022" price="102k" rating="7.2">
+        <year>2022</year>
+        <category>Luxury Car</category>
+        <type>Diesel</type>
+    </car>
+     <car name="Ford Mustang Mach-E" uri="https://www.thecarconnection.com/cars/ford_mustang-mach-e" price="47k" rating="8.2">
+        <year>2021</year>
+        <category>Suv</category>
+        <type>Electric</type>
+    </car>
+    <car name="Kia Carnival" uri="https://www.thecarconnection.com/overview/kia_carnival_2022" price="32k" rating="7.5">
+        <year>2022</year>
+        <category>Van</category>
+        <type>Hybrid</type>
+    </car>
+</cars>
